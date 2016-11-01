@@ -1,2 +1,5 @@
 # hello-world
-test repository
+
+Hi Humans!
+
+My name is JungMin Park!
